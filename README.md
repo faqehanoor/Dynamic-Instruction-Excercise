@@ -65,3 +65,12 @@ Maybe we should build an agent that does our homework too? 😅📚
    cd project-folder
    uv venv
    uv pip install -r requirements.txt
+
+   ![WhatsApp Image 2025-08-25 at 22 53 45_a9ed9e40](https://github.com/user-attachments/assets/b1bec4c7-f3a0-417a-90cf-4becd77a06c5)
+
+   ![WhatsApp Image 2025-08-25 at 22 53 27_07a31919](https://github.com/user-attachments/assets/eb4fa30f-9a45-430c-88b6-8072b91cfe04)
+
+   ![WhatsApp Image 2025-08-25 at 22 54 39_b73b5cc3](https://github.com/user-attachments/assets/2ed4cb3c-2afc-4950-8589-eb0abbf5df9f)
+
+
+
